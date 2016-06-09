@@ -1,0 +1,14 @@
+layout_spectrum: 0.6911923
+typography_spectrum: 0.8845327
+color:
+  saturation: 0.5958999
+  lightness: 0.6956731
+  brandStrength: 0.4871106
+  brandColors:
+    - '#00AEF0'
+    - '#FFFFFF'
+    - '#4DC6F4'
+    - '#7CD5F7'
+    - '#A6E3FA'
+  rhythmicContrast: 0.621691
+name: Qaszt
