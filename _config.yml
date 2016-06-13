@@ -1,14 +1,26 @@
-layout_spectrum: 0.6911923
-typography_spectrum: 0.8845327
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.5958999
-  lightness: 0.6956731
   brandStrength: 0.4871106
+  rhythmicContrast: 0.621691
   brandColors:
     - '#00AEF0'
     - '#FFFFFF'
     - '#4DC6F4'
     - '#7CD5F7'
     - '#A6E3FA'
-  rhythmicContrast: 0.621691
+  lightness: 0.6956731
+typography_spectrum: 0.06498389
+layout_spectrum: 0.2518797
 name: Qaszt
