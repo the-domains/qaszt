@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.06498389
 color:
   saturation: 0.5958999
   brandStrength: 0.4871106
-  rhythmicContrast: 0.621691
+  lightness: 0.6956731
   brandColors:
     - '#00AEF0'
     - '#FFFFFF'
     - '#4DC6F4'
     - '#7CD5F7'
     - '#A6E3FA'
-  lightness: 0.6956731
-typography_spectrum: 0.06498389
+  rhythmicContrast: 0.621691
 layout_spectrum: 0.2518797
 name: Qaszt
